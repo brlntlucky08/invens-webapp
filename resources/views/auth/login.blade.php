@@ -10,9 +10,9 @@
             background-size: 100% 100%;">
               <div class="card-body py-5">
                   <div class="d-flex">
-                    <div style="width : 40%;">
-
-                    </div>
+                    <div style="width : 40%;" class="text-center">
+                        <img src="assets/logos.png" alt="" width="65%" height="70%">
+                      </div>
                     <div class="content" style="width: 60%">
                         <h1 class="text-center">Login To Dashboard</h1>
                         <div class="py-5">
